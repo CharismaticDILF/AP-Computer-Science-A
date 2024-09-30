@@ -1,53 +1,18 @@
-Programming Project - Old Lady
-Building Java Programs: Programming Project 1.3
-Objective: Students will write a program that prints the song ‘There was an Old Lady’ to the console.
-Students will minimize repetition in their code by writing multiple methods. The lyrics to the song can be
-found in the textbook on page 58.
-Rubric
-1 point
-1 point
-Header
-Program Compiles (Class should be called OldLady. File name will be
-OldLady.java)
-2 points |Program is thoroughly commented (Each method and group of statements is
-explained well)
-2 points |Program is formatted correctly (Indentation, camelCase, Spacing, Readability)
-2 points |Program produces the correct output
-3 points |Program makes use of multiple methods to reduce repetition (The program should
-not be just a main method)
-Header. Includes name, period, class, title of project (“Old Lady”). See Example Below:
-//Brian Kernighan
-//First Period
-//AP Computer Science
-//Old Lady
-Compiling: Programs that do not compile will be returned to the student to be debugged.
-Comments: When you think you have enough comments, add more comments. Any member of your
-family should be able to read your code and understand its purpose.
-Output: Programs that produce partially correct output may receive partial credit in this category
-Late work: Assignments may be turned one week late for half credit.
-How to turn in your assignment:
-1. Find the assignment that has been posted on Edmodo.
-2. Click ‘Turn In’. Find your OldLady.java file. Attach it to your submission.
-3. Using the rubric, grade your own submission and post your score in Edmodo. Mr. Stride will also
-grade your project.
-
-Lyrics
-Note: This text is slightly different than the one that appears in Building Java Programs. Use this text.
-There was an old lady who swalloweda fly
-| don’t know why she
+There was an old lady who swallowed a fly
+I don’t know why she
 swallowed the fly
 Perhaps she'll die
 There was an old lady who swallowed a spider
 That wiggled and jiggled and tickled inside her
 She swallowed the spider to catch the fly
-| don’t know why she
+I don’t know why she
 swallowed the fly
 Perhaps she'll die
 There was an old lady who swallowed a bird
-How absurd! She swalloweda bird!
+How absurd! She swallowed a bird!
 She swallowed the bird to catch the spider
 She swallowed the spider to catch the fly
-| don’t know why she
+I don’t know why she
 swallowed the fly
 Perhaps she'll die
 There was an old lady who swallowed a cat
@@ -55,7 +20,7 @@ Imagine that! She swallowed a cat
 She swallowed the cat to catch the bird
 She swallowed the bird to catch the spider
 She swallowed the spider to catch the fly
-| don’t know why she
+I don’t know why she
 swallowed the fly
 Perhaps she'll die
 There was an old lady who swallowed a dog
@@ -64,17 +29,17 @@ She swallowed the dog to catch the cat
 She swallowed the cat to catch the bird
 She swallowed the bird to catch the spider
 She swallowed the spider to catch the fly
-| don’t know why she
+I don’t know why she
 swallowed the fly
 Perhaps she'll die
 There was an old lady who swallowed a cow
-| don’t know how she swallowed the cow
+I don’t know how she swallowed the cow
 She swallowed the cow to catch the dog
 She swallowed the dog to catch the cat
 She swallowed the cat to catch the bird
 She swallowed the bird to catch the spider
 She swallowed the spider to catch the fly
-| don’t know why she
+I don’t know why she
 swallowed the fly
 Perhaps she'll die
 There was an old lady who swallowed a horse
