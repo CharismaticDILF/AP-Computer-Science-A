@@ -15,13 +15,20 @@ public class OldLady
     public static void birdEatSpider(){
         System.out.println("She swallowed the bird to catch the spider");
     }
-
-    public static void secondStanza(){  
-        //Prints the first stanza and calls last few lines
-        System.out.println("There was an old lady who swallowed a spider");
-        System.out.println("That wiggled and jiggled and tickled inside her");
-        shellDie();
+    public static void catEatBird(){
+        System.out.println("She swallowed the cat to catch the bird");
     }
+    public static void dogEatCat(){
+        System.out.println("She swallowed the dog to catch the cat");
+    }
+    public static void cowEatDog(){
+        System.out.println("She swallowed the cow to catch the dog");
+    }
+    public static void horseEatCow(){
+        System.out.println("She swallowed the horse to catch the cow");
+    }
+
+    //Repeated lines for the stanzas
     public static void shellDie() {
         //The repeated lines at the end of most of the stanzas will be refered to as stanza end
         System.out.println("I don't know why she");
@@ -33,4 +40,25 @@ public class OldLady
         System.out.println("There was an old lady who swallowed a fly");
         shellDie();
     } 
+    public static void secondStanza(){  
+        //Prints the first stanza and calls last few lines
+        System.out.println("There was an old lady who swallowed a spider");
+        System.out.println("That wiggled and jiggled and tickled inside her");
+        shellDie();
+    }
+    public static void lastStanza(){
+        //Prints the last stanza and calls last few lines
+        System.out.println("There was an old lady who swallowed a horse");
+        System.out.println("She's dead, of course!");
+        System.out.println("It was the last course");
+        System.out.println(" I’m filled with remorse");
+        System.out.println("What's left to say");
+        System.out.println("Even the artist is crying");
+        System.out.println("We'll miss her dearly");
+        System.out.println(" It's such a loss");
+        System.out.println("She had no time to floss");
+        System.out.println( " She missed out on the sauce\n");
+        System.out.println("Moral: Never swallow a horse");
+    }
+
 }

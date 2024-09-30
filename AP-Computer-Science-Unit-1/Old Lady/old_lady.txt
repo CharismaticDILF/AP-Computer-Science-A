@@ -2,12 +2,14 @@ There was an old lady who swallowed a fly
 I don’t know why she
 swallowed the fly
 Perhaps she'll die
+
 There was an old lady who swallowed a spider
 That wiggled and jiggled and tickled inside her
 She swallowed the spider to catch the fly
 I don’t know why she
 swallowed the fly
 Perhaps she'll die
+
 There was an old lady who swallowed a bird
 How absurd! She swallowed a bird!
 She swallowed the bird to catch the spider
@@ -15,6 +17,7 @@ She swallowed the spider to catch the fly
 I don’t know why she
 swallowed the fly
 Perhaps she'll die
+
 There was an old lady who swallowed a cat
 Imagine that! She swallowed a cat
 She swallowed the cat to catch the bird
@@ -23,6 +26,7 @@ She swallowed the spider to catch the fly
 I don’t know why she
 swallowed the fly
 Perhaps she'll die
+
 There was an old lady who swallowed a dog
 She went whole hog to swallow the dog
 She swallowed the dog to catch the cat
@@ -32,6 +36,7 @@ She swallowed the spider to catch the fly
 I don’t know why she
 swallowed the fly
 Perhaps she'll die
+
 There was an old lady who swallowed a cow
 I don’t know how she swallowed the cow
 She swallowed the cow to catch the dog
@@ -42,6 +47,7 @@ She swallowed the spider to catch the fly
 I don’t know why she
 swallowed the fly
 Perhaps she'll die
+
 There was an old lady who swallowed a horse
 She died, of course
 It was the last course
@@ -52,4 +58,5 @@ We'll miss her dearly
 It's such a loss
 She had no time to floss
 She missed out on the sauce
+
 Moral: Never swallow a horse
