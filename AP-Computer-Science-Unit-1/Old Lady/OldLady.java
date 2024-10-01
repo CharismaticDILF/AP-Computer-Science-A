@@ -6,6 +6,12 @@ public class OldLady
 {
     public static void main(String[] args) {
         firstStanza();
+        secondStanza();
+        thirdStanza();
+        fourthStanza();
+        fithStanza();
+        sixthStanza();
+        seventhStanza();
     }
 
     //Repeated lines for the food chain
@@ -41,12 +47,45 @@ public class OldLady
         shellDie();
     } 
     public static void secondStanza(){  
-        //Prints the first stanza and calls last few lines
+        //Prints the second stanza and calls last few lines
         System.out.println("There was an old lady who swallowed a spider");
         System.out.println("That wiggled and jiggled and tickled inside her");
         shellDie();
     }
-    public static void lastStanza(){
+    public static void thirdStanza(){  
+        //Prints the third stanza and calls last few lines
+        System.out.println("There was an old lady who swallowed a bird");
+        System.out.println("How absurd to swallow a bird");
+        birdEatSpider();
+        shellDie();
+    }
+    public static void fourthStanza(){  
+        //Prints the fourth stanza and calls last few lines
+        System.out.println("There was an old lady who swallowed a cat");
+        System.out.println("Imagine that to swallow a cat");
+        catEatBird();
+        birdEatSpider();
+        shellDie();
+    }
+    public static void fithStanza(){
+        //Prints the fith stanza and calls last few lines
+        System.out.println("There was an old lady who swallowed a dog");
+        System.out.println("She went whole hog to swallow the dog");
+        dogEatCat();
+        catEatBird();
+        birdEatSpider();
+        shellDie();
+    }
+    public static void sixthStanza(){
+        //Prints the sixth stanza and calls last few lines
+        System.out.println("There was an old lady who swallowed a cow");
+        System.out.println("I don’t know how she swallowed the cow");
+        dogEatCat();
+        catEatBird();
+        birdEatSpider();
+        shellDie();
+    }
+    public static void seventhStanza(){
         //Prints the last stanza and calls last few lines
         System.out.println("There was an old lady who swallowed a horse");
         System.out.println("She's dead, of course!");
