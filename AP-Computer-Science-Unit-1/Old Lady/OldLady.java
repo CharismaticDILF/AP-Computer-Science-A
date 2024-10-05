@@ -2,9 +2,9 @@
 //Period 3
 //AP CS A
 //Old Lady
-public class OldLady
-{
+public class OldLady{
     public static void main(String[] args) {
+        //Runs all stanzas in order
         firstStanza();
         secondStanza();
         thirdStanza();
