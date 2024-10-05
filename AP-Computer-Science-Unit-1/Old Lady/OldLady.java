@@ -14,7 +14,7 @@ public class OldLady{
         seventhStanza();
     }
 
-    //Repeated lines for the food chain
+    //Repeated lines for the food chain that will be called in order, top-down
     public static void spiderEatFly(){
         System.out.println("She swallowed the spider to catch the fly");
     }
